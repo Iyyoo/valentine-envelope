@@ -118,7 +118,7 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 45%;
+  max-width: 70%;
   height: auto;
 }
 
@@ -219,7 +219,7 @@ body {
 
 .wish h5 {
   font-weight: lighter;
-  font-size: 1.4rem;
+  font-size: 0.9rem;
   margin: 10px 0 0;
 }
 

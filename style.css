@@ -9,6 +9,12 @@ h2 {
   color: #d63384;
 }
 
+h3 {
+  color: #f07cb6;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
 #container {
   margin-top: 50px;
 }

@@ -1,4 +1,4 @@
-let passcode = "1234";
+let passcode = "1012";
 let input = "";
 
 function pressKey(num) {
